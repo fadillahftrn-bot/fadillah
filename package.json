@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-ejs-layouts": "^2.5.1",
+    "layout": "^2.2.0",
+    "nodemon": "^3.1.10"
+  },
+  "name": "latihan2",
+  "version": "1.0.0",
+  "description": "",
+  "main": " app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadillahftrn-bot/latihan2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadillahftrn-bot/latihan2/issues"
+  },
+  "homepage": "https://github.com/fadillahftrn-bot/latihan2#readme"
+}
